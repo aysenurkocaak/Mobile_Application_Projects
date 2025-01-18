@@ -49,9 +49,6 @@ On this page, a movie or TV series that has already been added to the watchlist 
   <img src="https://github.com/aysenurkocaak/Mobile_Application_Projects/blob/main/Flutter%20Projects/Comprehensive%20Movie%20App%20Projects/lib/watchlist4.png" width="200">&nbsp;&nbsp;
 </div>
 
-# Watch Project 
-
-https://github.com/aysenurkocaak/Mobile_Application_Projects/blob/main/Flutter%20Projects/Comprehensive%20Movie%20App%20Projects/lib/projectContent%20(2)_Trim.mp4
 
 
 
